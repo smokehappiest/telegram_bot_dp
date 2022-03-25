@@ -1,0 +1,11 @@
+1. Hero Meta
+1.1 Hero roles meta ++
+1.2 Visualization data
+
+2. Buy list
+2.1 Winrate on roles
+2.2 Skill Build
+2.3 Start build
+2.4 Top item build
+2.5 Other items
+2.6 Matchups
